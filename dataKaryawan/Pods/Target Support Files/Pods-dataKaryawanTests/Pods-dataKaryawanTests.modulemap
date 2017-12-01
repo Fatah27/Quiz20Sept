@@ -1,0 +1,6 @@
+framework module Pods_dataKaryawanTests {
+  umbrella header "Pods-dataKaryawanTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
